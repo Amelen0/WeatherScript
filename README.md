@@ -1,2 +1,2 @@
 Designed to help you locate the weather on time.
-mzl.xcxvyupx.png
+![alt tag](https://github.com/Amelen0/WeatherScript/blob/master/images/mzl.xcxvyupx.png)

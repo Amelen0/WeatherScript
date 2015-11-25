@@ -9,3 +9,4 @@ if len(sys.argv) < 2:
 
 weatherData = json.loads(response.txt)
 w = weatherData['list']
+print('Current weather in %s:')
